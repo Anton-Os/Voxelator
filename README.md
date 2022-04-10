@@ -1,2 +1,3 @@
 # Voxelator
-Voxel engine in the making, written over my custom rendering and imaging libraries
+
+*Voxels are for squares, Voxelator is for everything*
